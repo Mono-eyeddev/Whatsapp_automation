@@ -1,6 +1,3 @@
-# ==============================
-# instant.py — Send Instant Message
-# ==============================
 
 import pywhatkit as kit
 

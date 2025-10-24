@@ -1,7 +1,4 @@
-# ==============================
-# main.py — Amigo WhatsApp Auto Suite
-# ==============================
-
+#CLI gui for end-user 
 from instant import send_instant
 from spam import spam_mode
 from schedule_send import schedule_message
@@ -18,7 +15,7 @@ def main():
         print("4. Send to multiple contacts")
         print("5. Exit")
         choice = input("Select option: ")
-
+#The other functions are declared in their seperate file 
         if choice == "1":
             send_instant()
         elif choice == "2":
