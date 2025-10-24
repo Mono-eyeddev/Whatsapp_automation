@@ -6,5 +6,5 @@ def send_instant():
     msg = input("Enter message: ")
     num = input("Enter phone number (with +254...): ")
     print("Opening WhatsApp Web...")
-    kit.sendwhatmsg_instantly(num, msg, wait_time=10, tab_close=True)
+    kit.sendwhatmsg_instantly(num, msg, wait_time=20,tab_close=True)
     print("✅ Message sent!")
