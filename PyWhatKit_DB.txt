@@ -58,3 +58,43 @@ Time: 5:27
 Phone Number: +254753496200
 Message: testing my bot on smora chat
 --------------------
+Date: 25/10/2025
+Time: 5:41
+Phone Number: +254753496200
+Message: testing bulk sms
+--------------------
+Date: 25/10/2025
+Time: 5:41
+Phone Number: +254115760476
+Message: testing bulk sms
+--------------------
+Date: 25/10/2025
+Time: 5:48
+Phone Number: +254753496200
+Message: Testin bulk sms fix
+--------------------
+Date: 25/10/2025
+Time: 5:49
+Phone Number: +254115760476
+Message: Testin bulk sms fix
+--------------------
+Date: 25/10/2025
+Time: 5:53
+Phone Number: +254753496200
+Message: Testing phase 3
+--------------------
+Date: 25/10/2025
+Time: 5:54
+Phone Number: +254115760476
+Message: Testing phase 3
+--------------------
+Date: 25/10/2025
+Time: 6:32
+Phone Number: +254115760476
+Message: hi
+--------------------
+Date: 25/10/2025
+Time: 6:33
+Phone Number:  +254115760476
+Message: Hi
+--------------------
