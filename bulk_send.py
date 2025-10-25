@@ -27,3 +27,4 @@ def send_bulk():
         time.sleep(3)
 
     print("\nAll messages sent successfully amigo! ✅")
+

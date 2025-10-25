@@ -1,6 +1,3 @@
-# ==============================
-# utils.py — Helper Functions
-# ==============================
 
 import pyautogui
 import time

@@ -1,6 +1,3 @@
-# ==============================
-# spam.py — Spam Mode
-# ==============================
 
 import pyautogui
 import pyperclip
