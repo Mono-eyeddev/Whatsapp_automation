@@ -1,6 +1,3 @@
-# ==============================
-# bulk_send.py — Bulk Message Sender
-# ==============================
 
 import pywhatkit as kit
 import time

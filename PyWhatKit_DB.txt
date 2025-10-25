@@ -38,3 +38,23 @@ Time: 2:11
 Phone Number: +254799817331
 Message: I told the nurse i got bit by a wolf, where she asked?
 --------------------
+Date: 25/10/2025
+Time: 2:17
+Phone Number: +254799817331
+Message: Knock knock, whose there , water, water who ,what are you doing ?
+--------------------
+Date: 25/10/2025
+Time: 2:26
+Phone Number: +254799817331
+Message: Testing my bot execution
+--------------------
+Date: 25/10/2025
+Time: 2:27
+Phone Number: +254735450235
+Message: Testing my bot execution
+--------------------
+Date: 25/10/2025
+Time: 5:27
+Phone Number: +254753496200
+Message: testing my bot on smora chat
+--------------------
